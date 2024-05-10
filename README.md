@@ -113,7 +113,4 @@ other tasks that require critical thinking. I have achieved Candidate Master ran
 | BUET Inter University Programming Contest 2022   | 31st Place         | 2022          |
 | 2022 ICPC Asia Dhaka Regional Contest   | 27th Place         | 2022   |  
 
-
-
-----
-<div align="center">Generated with the help of<a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</br>
