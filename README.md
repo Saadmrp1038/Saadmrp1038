@@ -84,15 +84,11 @@ other tasks that require critical thinking. I have achieved Candidate Master ran
 
 
 ## Github Stats  
-<table><tr><td valign="top">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saadmrp1038&show_icons=true&locale=en&layout=compact" alt="Saadmrp1038" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Saadmrp1038&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Saadmrp1038&show_icons=true&locale=en" alt="Saadmrp103" /></p>
 
-</td><td valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadmrp1038&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saadmrp1038&" alt="Saadmrp1038" /></p>
 
 <br/>  
 
