@@ -2,18 +2,20 @@
   
 
 <a href="https://github.com/Saadmrp1038" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/SaadMRP" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/saadmrp" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/saadmohammadrafid.pial" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook style="margin-bottom: 5px;" />
 </a>  
-  
+ <a href="https://codeforces.com/profile/Reckless_Raccoon">
+ 	<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
+ </a>
 
 
 
@@ -26,7 +28,7 @@ other tasks that require critical thinking. I have achieved Candidate Master ran
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+
 
 - 🔭 I’m currently trying to optimize a RAG based search system  
   
@@ -37,7 +39,6 @@ other tasks that require critical thinking. I have achieved Candidate Master ran
 - 💻 I’m also preparing for job interviews  
 
 
-</td><td valign="top" width="50%">
 
 
 
@@ -83,7 +84,7 @@ other tasks that require critical thinking. I have achieved Candidate Master ran
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="45%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Saadmrp1038&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
@@ -95,16 +96,28 @@ other tasks that require critical thinking. I have achieved Candidate Master ran
 
 <br/>  
 
-  
-
-<br/>  
-
-  
-
-<br/>  
 
 
-<br />
+## Competition Performances 🏆
+### Hackathon Performances 
+
+| Title               | Category      | Performance        |  Timeline | Project          |
+| -----------         | -----------      |  -----------     |-----------|------------------|
+| Cefalo ITverse 2023| TechTales   | Champion          | 2023      | BDeHR |
+| SUST CSE Carnival 2024| Hackathon   | Champion          | 2024      | BebshaAI |
+| Code Crafters Dev Sprint 2024           | Project Building   | Champion   | 2024   | CoderHub|
+|IUT 11th National ICT Fest 2024     | OpenAPI Hackathon         | Champion   | 2024      |Voyager|
+
+### IUPC
+
+| Title               | Performance      |   Timeline | 
+| -----------         | -----------      |  -----------|
+| AUST IUPC 2022   | 21st Place         | 2022          |
+| SEC Inter University Junior Programming Contest 2022       | 7th Place         | 2022    |
+| BUET Inter University Programming Contest 2022   | 31st Place         | 2022          |
+| 2022 ICPC Asia Dhaka Regional Contest   | 27th Place         | 2022   |  
+
+
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Generated with the help of<a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
