@@ -87,8 +87,6 @@ other tasks that require critical thinking. I have achieved Candidate Master ran
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Saadmrp1038&show_icons=true&locale=en" alt="Saadmrp103" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saadmrp1038&" alt="Saadmrp1038" /></p>
-
 <br/>  
 
 
@@ -103,6 +101,7 @@ other tasks that require critical thinking. I have achieved Candidate Master ran
 | Code Crafters Dev Sprint 2024           | Project Building   | Champion   | 2024   | [CoderHub](https://github.com/Saadmrp1038/coderhub)|
 |IUT 11th National ICT Fest 2024     | OpenAPI Hackathon         | Champion   | 2024      |[Voyager](https://github.com/Saadmrp1038/Voyager)|
 |Gen-Dev AI Hackhathon| Gender Knowledge Augmentation | Runner's-up | 2024 | [Sohojogi](https://github.com/Saadmrp1038/Sohojogi_Mobile_App)|
+|BCOLBD | AI Category | Honorable Mention | 2024 | InsightAI |
 
 ### IUPC Performances
 
