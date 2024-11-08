@@ -100,8 +100,9 @@ other tasks that require critical thinking. I have achieved Candidate Master ran
 | SUST CSE Carnival 2024| Hackathon   | Champion          | 2024      |
 | Code Crafters Dev Sprint 2024           | Project Building   | Champion   | 2024   |
 |IUT 11th National ICT Fest 2024     | OpenAPI Hackathon         | Champion   | 2024      |
-|Gen-Dev AI Hackhathon| Gender Knowledge Augmentation | Runner's-up | 2024 |
+|Gen-Dev AI Hackathon| Gender Knowledge Augmentation | Runner's-up | 2024 |
 |BCOLBD | AI Category | Honorable Mention | 2024 |
+|Zelf Hackathon | Scraping | 2nd | 2024 |
 
 ### IUPC Performances
 
