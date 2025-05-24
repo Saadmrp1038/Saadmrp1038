@@ -18,30 +18,6 @@
  </a>
 
 
-
-### Glad to see you here!  
-I am a fourth-year undergraduate student majoring in Computer Science and Engineering at Bangladesh University of Engineering and Technology (BUET) in Dhaka, Bangladesh. I am very passionate about competitive programming and
-other tasks that require critical thinking. I have achieved Candidate Master ranking in codeforces. Additionally, I also enjoy participating in hackathons and won some competitions. The advancements in generative AI have captivated my interest, and I have undertaken projects leveraging the capabilities of Gen AI. I aspire to work in an environment that nurtures and enhances my skills and experience.  
-  
-
-<br/>  
-
-
-## Rapidfire  
-
-
-- 🔭 I’m currently trying to optimize a RAG based search system  
-  
-
-- 🌱 I’m currently learning PyTorch and Blockchain technology (Hyperledger Fabric)  
-  
-
-- 💻 I’m also preparing for job interviews  
-
-
-
-
-
 </td></tr></table>  
 
 <br/>  
