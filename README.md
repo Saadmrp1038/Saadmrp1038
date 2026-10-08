@@ -54,7 +54,7 @@ I'm **Saad Mohammad Rafid Pial**, an MSCS student and research assistant at the 
 
 ## GitHub stats
 
-![GitHub stats showing commits, pull requests, issues, and stars](https://github-readme-stats-kohl-iota-91.vercel.app/api?username=Saadmrp1038&show_icons=true&locale=en)
+![GitHub stats showing commits, pull requests, issues, and stars](https://github-readme-stats-kohl-iota-91.vercel.app/api?username=Saadmrp1038&show_icons=true&locale=en&v=a1c62c0)
 
 <details>
 <summary>Earlier hackathon and programming contest results 🏆</summary>
