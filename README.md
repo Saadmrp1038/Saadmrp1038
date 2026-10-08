@@ -1,6 +1,6 @@
 # Hi, I'm Pial 👋
 
-I'm **Saad Mohammad Rafid Pial**, an MSCS student and research assistant at the University of Illinois Urbana-Champaign. I work with [Professor Tianyin Xu](https://tianyin.github.io/) on AI for systems, site reliability engineering, and formal methods. Previously, I was a software engineer at Monsha.AI and earned my BSc in Computer Science and Engineering from BUET.
+I'm **Saad Mohammad Rafid Pial**, an MSCS student and research assistant at the University of Illinois Urbana-Champaign. I work with [Professor Tianyin Xu](https://tianyin.github.io/) on AI for systems, and site reliability engineering. Previously, I was a software engineer at Monsha.AI and earned my BSc in Computer Science and Engineering from BUET.
 
 [![Website](https://img.shields.io/badge/Website-334155?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saadmrp1038.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=SOodx3QAAAAJ&hl=en)
