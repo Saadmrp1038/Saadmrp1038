@@ -1,9 +1,8 @@
 # Hi, I'm Pial 👋
 
-I'm **Saad Mohammad Rafid Pial**, an MSCS student and research assistant at the University of Illinois Urbana-Champaign. I work with Professor Tianyin Xu on AI for systems, site reliability engineering, and formal methods. Previously, I was a software engineer at Monsha.AI and earned my BSc in Computer Science and Engineering from BUET.
+I'm **Saad Mohammad Rafid Pial**, an MSCS student and research assistant at the University of Illinois Urbana-Champaign. I work with [Professor Tianyin Xu](https://tianyin.github.io/) on AI for systems, site reliability engineering, and formal methods. Previously, I was a software engineer at Monsha.AI and earned my BSc in Computer Science and Engineering from BUET.
 
 [![Website](https://img.shields.io/badge/Website-334155?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saadmrp1038.github.io/)
-[![Publications](https://img.shields.io/badge/Publications-7c3aed?style=for-the-badge&logo=googlescholar&logoColor=white)](https://saadmrp1038.github.io/publications)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=SOodx3QAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saadmrp)
 [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saadmrp1038)
@@ -18,8 +17,6 @@ I'm **Saad Mohammad Rafid Pial**, an MSCS student and research assistant at the 
 - **[Specula](https://github.com/specula-org/Specula)** uses AI agents to generate TLA+ specifications and model-check system code. [Read the preprint](https://arxiv.org/abs/2607.25333).
 - **[EduPresenta](https://doi.org/10.1007/978-3-032-30784-2_19)** is a conversational agent for creating pedagogically grounded presentation slides, published at **HCII 2026**.
 - **[NuevAI](https://doi.org/10.1145/3750069.3750094)** helps educators build and evaluate pedagogical conversational agents, published at **CHItaly 2025**.
-
-See my [full publication list](https://saadmrp1038.github.io/publications) for papers, links, and abstracts.
 
 ## Languages and Tools
 
@@ -58,8 +55,6 @@ See my [full publication list](https://saadmrp1038.github.io/publications) for p
 ## GitHub stats
 
 ![GitHub stats showing commits, pull requests, issues, and stars](https://github-readme-stats-kohl-iota-91.vercel.app/api?username=Saadmrp1038&show_icons=true&locale=en)
-
-The card's commit count covers the current year. The contribution graph below also includes pull requests, reviews, issues, and private activity.
 
 <details>
 <summary>Earlier hackathon and programming contest results 🏆</summary>
