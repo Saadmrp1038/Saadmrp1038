@@ -2,7 +2,7 @@
 
 I'm **Saad Mohammad Rafid Pial**, an MSCS student and research assistant at the University of Illinois Urbana-Champaign. I work with Professor Tianyin Xu on AI for systems, site reliability engineering, and formal methods. Previously, I was a software engineer at Monsha.AI and earned my BSc in Computer Science and Engineering from BUET.
 
-[Website](https://saadmrp1038.github.io/) · [Publications](https://saadmrp1038.github.io/publications) · [Google Scholar](https://scholar.google.com/citations?user=SOodx3QAAAAJ&hl=en) · [LinkedIn](https://linkedin.com/in/saadmrp) · [X](https://x.com/SaadMRP) · [Email](mailto:saadmrp222@gmail.com) · [GitHub activity](https://github.com/Saadmrp1038?tab=overview)
+[Website](https://saadmrp1038.github.io/) · [Publications](https://saadmrp1038.github.io/publications) · [Google Scholar](https://scholar.google.com/citations?user=SOodx3QAAAAJ&hl=en) · [LinkedIn](https://linkedin.com/in/saadmrp) · [X](https://x.com/SaadMRP) · [Email](mailto:saadmrp@gmail.com) · [GitHub activity](https://github.com/Saadmrp1038?tab=overview)
 
 ## Research and publications
 
