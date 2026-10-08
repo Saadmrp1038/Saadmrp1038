@@ -17,6 +17,12 @@ See my [full publication list](https://saadmrp1038.github.io/publications) for p
 
 Python · TypeScript · Go · Docker · TLA+
 
+## GitHub stats
+
+![GitHub stats showing commits, pull requests, issues, and stars](https://github-readme-stats-kohl-iota-91.vercel.app/api?username=Saadmrp1038&show_icons=true&locale=en)
+
+The card's commit count covers the current year. The contribution graph below also includes pull requests, reviews, issues, and private activity.
+
 <details>
 <summary>Earlier hackathon and programming contest results 🏆</summary>
 
