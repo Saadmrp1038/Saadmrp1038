@@ -52,10 +52,6 @@ I'm **Saad Mohammad Rafid Pial**, an MSCS student and research assistant at the 
 <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="25" /></a>
 </div>
 
-## GitHub stats
-
-![GitHub stats showing commits, pull requests, issues, and stars](https://github-readme-stats-kohl-iota-91.vercel.app/api?username=Saadmrp1038&show_icons=true&locale=en&v=a1c62c0)
-
 <details>
 <summary>Earlier hackathon and programming contest results 🏆</summary>
 
